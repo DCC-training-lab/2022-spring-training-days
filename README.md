@@ -1,14 +1,12 @@
 # 2022-spring-training-days
 
 ## Session 1: Reviewing DMP's, Escape Room and Community Building
-Presentation (reviewing) DMP's: Esther Plomp (TU Delft)
-Slides: https://doi.org/10.5281/zenodo.6602237
-Escape room experience: Elisa Rodenburg (VU)
-Escape Room Google Pages: https://doi.org/10.5281/zenodo.6949511
-Community building: Lena Karvovskaya (VU)
-OSF repository with slides: https://osf.io/bp7xy/
+* <a href="https://github.com/DCC-training-lab/reviewing-DMPs/tree/037d4434b37182f37e63ecc891fda204dbd29c85" target="_blank">Presentation (reviewing) DMP's: Esther Plomp (TU Delft)</a>
+* <a href="https://github.com/DCC-training-lab/escape-room-experience/tree/95e882beeed8f5e6dc4045b63301dd718f005ad2" target="_blank">Escape room experience: Elisa Rodenburg (VU)</a>
+* <a href="https://github.com/DCC-training-lab/community-building/tree/2f784d83eed7b4c7bae0171a23946b62d9fd2677" target="_blank">Community building: Lena Karvovskaya (VU)</a>
 
 ## Session 2: The role of good RDM in accelerating scientific progress
+* <a href="" target="_blank"></a>
 The role of good RDM in accelerating scientific progress: Kristina Hettne & Joanne Yeomans (Leiden University)
 Slides: https://docs.google.com/document/d/1C6fArwqh-CA2cTDotkUH1zeewoYdcv0tBV_MOS6Ag8Q/edit#heading=h.120o3jxyzyh2
 
