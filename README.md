@@ -6,7 +6,7 @@
 * <a href="https://github.com/DCC-training-lab/community-building/tree/2f784d83eed7b4c7bae0171a23946b62d9fd2677" target="_blank">Community building: Lena Karvovskaya (VU)</a>
 
 ## Session 2: The role of good RDM in accelerating scientific progress
-* <a href="" target=https://github.com/DCC-training-lab/good-RDM-accelerating-scientific-progress/tree/732c2f0e9b6b9f23bf01704aa5077453767d70a9"_blank">The role of good RDM in accelerating scientific progress: Kristina Hettne & Joanne Yeomans (Leiden University)</a>
+* <a href="https://github.com/DCC-training-lab/good-RDM-accelerating-scientific-progress/tree/732c2f0e9b6b9f23bf01704aa5077453767d70a9" target="_blank">The role of good RDM in accelerating scientific progress: Kristina Hettne & Joanne Yeomans (Leiden University)</a>
 
 ## Session 3: Anonymising and pseudonymising 
 De-identification techniques (Anonymize - Pseudonymize): Hanne Vlietinck (Hasselt University)
