@@ -17,18 +17,7 @@ SDC Techniques Tools: Afshin Amighi (Rotterdam University of Applied Science)
 Presentation: https://www.lcrdm.nl/files/lcrdm/2022-06/SDC-Tools-LRDM22%20%281%29.pdf
 
 ## Session 4: Practical Pedagogical Techniques for hands-on workshops
-Ben Companjen & Kristina Hettne (Leiden University Library); Hanne Vlietinck (Hasselt University); Jolien Scholten (Vrije Universiteit Amsterdam); Lieke de Boer & Mateusz Kuzak (Netherlands eScience Center)
-GitHub repository esciencecenter-digital-skills/2021-06-16-practical-pedagogical-techniques: Repository of training materials for DCC Spring Training Days workshop on practical pedagogical techniques. (github.com) - empty
-Practical Pedagogical Techniques for hands-on workshops: Hanne Vlietinck (Hasselt University)
-https://nlesc.sharepoint.com/:b:/s/instructors/EXKhyg5jD6lNquhJSRac6xQB0YPm6-6XUQy900eHfhtZLw?e=YE0dA6
-Using inclusive language and avoiding jargon
-Factsheet: https://nlesc.sharepoint.com/:w:/s/instructors/Eb2xCb63hdVFoFbt3yj_yUABS8Nwqp8UXWQl1Dz4OeL4Rg?e=dx3FKH
-Using inclusive language and avoiding jargon
-Handout:
-https://nlesc.sharepoint.com/:w:/s/instructors/EcXLAm0cUhhMioCROGsSrhABGZzs5TowWWor1QfyoeEHtw?e=utENFv
-Teaching tech together: https://teachtogether.tech/
-List of games for rdm: https://figshare.com/articles/online_resource/Research_Support_Games_List/16652701
-HBO werkvormen: https://hbowerkvormen.nl/
+https://github.com/esciencecenter-digital-skills/2021-06-16-practical-pedagogical-techniques
 
 ## Session 5: Organizing your data and software with a reproducible workflow
 https://github.com/meronvermaas/2022-06-23-DCC-project-management
